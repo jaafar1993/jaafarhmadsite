@@ -16,11 +16,11 @@ export default function Home() {
           <li className="mb-2">
             fisrt app jaafar hamd icloud .com{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
+             hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Sahhhhhhhhhhhhhhhhhhhhhhhhhhhhh</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
